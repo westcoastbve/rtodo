@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h1>지누 이제 시작이얌</h1>
+    <h1>유정 이제 시작이얌</h1>
     <TodoList/>
     </>
   )
